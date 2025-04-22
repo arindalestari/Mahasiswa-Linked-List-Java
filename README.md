@@ -1,10 +1,10 @@
-# 📘 Mahasiswa Linked List (Java)
+# Mahasiswa Linked List (Java)
 
 Program sederhana menggunakan bahasa pemograman Java untuk mengelola data mahasiswa menggunakan **Single Linked List**. Dibuat sebagai tugas individu data struktur and algorithm analysis.
 
 ---
 
-## 🔧 Fitur
+## Fitur
 
 1. Menambahkan data mahasiswa (maksimal 5 data)  
 2. Menampilkan seluruh data mahasiswa yang sudah tersortir berdasarkan **NIM**  
