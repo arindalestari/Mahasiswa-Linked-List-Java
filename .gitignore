@@ -1,0 +1,21 @@
+# ===================
+# Java compile result
+# ===================
+*.class
+
+# ===================
+# VSCode config folder
+# ===================
+.vscode/
+
+# ===================
+# Output folders (kalau pake folder hasil compile)
+# ===================
+bin/
+out/
+
+# ===================
+# OS-generated files (biar bersih)
+# ===================
+.DS_Store
+Thumbs.db
